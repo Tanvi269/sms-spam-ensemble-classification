@@ -1,0 +1,8 @@
+Model,TN,FP,FN,TP
+NaiveBayes,4822.0,3.0,112.0,635.0
+LogisticRegression,4817.0,8.0,166.0,581.0
+LinearSVM,4811.0,14.0,76.0,671.0
+Voting_Hard,4820.0,5.0,98.0,649.0
+Voting_Soft,4819.0,6.0,126.0,621.0
+Stacking,4810.0,15.0,74.0,673.0
+AdaBoost_Stump,4810.0,15.0,427.0,320.0
